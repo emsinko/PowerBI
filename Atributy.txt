@@ -1,0 +1,92 @@
+id	code	name
+SK010	SK010	Bratislavský kraj
+SK021	SK021	Trnavský kraj
+SK022	SK022	Trenčiansky kraj
+SK023	SK023	Nitriansky kraj
+SK031	SK031	Žilinský kraj
+SK032	SK032	Banskobystrický kraj
+SK041	SK041	Prešovský kraj
+SK042	SK042	Košický kraj
+		
+		
+		
+id	REF	TXT
+	SK0221	Bánovce nad Bebravou
+	SK0321	Banská Bystrica
+	SK0322	Banská Štiavnica
+	SK0411	Bardejov
+	SK0101	Bratislava I
+	SK0102	Bratislava II
+	SK0103	Bratislava III
+	SK0104	Bratislava IV
+	SK0105	Bratislava V
+	SK0323	Brezno
+	SK0311	Bytča
+	SK0312	Čadca
+	SK0324	Detva
+	SK0313	Dolný Kubín
+	SK0211	Dunajská Streda
+	SK0212	Galanta
+	SK0421	Gelnica
+	SK0213	Hlohovec
+	SK0412	Humenné
+	SK0222	Ilava
+	SK0413	Kežmarok
+	SK0231	Komárno
+	SK0422	Košice I
+	SK0423	Košice II
+	SK0424	Košice III
+	SK0425	Košice IV
+	SK0426	Košice - okolie
+	SK0325	Krupina
+	SK0314	Kysucké Nové Mesto
+	SK0232	Levice
+	SK0414	Levoča
+	SK0315	Liptovský Mikuláš
+	SK0326	Lučenec
+	SK0106	Malacky
+	SK0316	Martin
+	SK0415	Medzilaborce
+	SK0427	Michalovce
+	SK0223	Myjava
+	SK0317	Námestovo
+	SK0233	Nitra
+	SK0224	Nové Mesto nad Váhom
+	SK0234	Nové Zámky
+	SK0225	Partizánske
+	SK0107	Pezinok
+	SK0214	Piešťany
+	SK0327	Poltár
+	SK0416	Poprad
+	SK0226	Považská Bystrica
+	SK0417	Prešov
+	SK0227	Prievidza
+	SK0228	Púchov
+	SK0328	Revúca
+	SK0329	Rimavská Sobota
+	SK0428	Rožňava
+	SK0318	Ružomberok
+	SK0418	Sabinov
+	SK0108	Senec
+	SK0215	Senica
+	SK0216	Skalica
+	SK0419	Snina
+	SK0429	Sobrance
+	SK042A	Spišská Nová Ves
+	SK041A	Stará Ľubovňa
+	SK041B	Stropkov
+	SK041C	Svidník
+	SK0235	Šaľa
+	SK0236	Topoľčany
+	SK042B	Trebišov
+	SK0229	Trenčín
+	SK0217	Trnava
+	SK0319	Turčianske Teplice
+	SK031A	Tvrdošín
+	SK032A	Veľký Krtíš
+	SK041D	Vranov nad Topľou
+	SK0237	Zlaté Moravce
+	SK032B	Zvolen
+	SK032C	Žarnovica
+	SK032D	Žiar nad Hronom
+	SK031B	Žilina
